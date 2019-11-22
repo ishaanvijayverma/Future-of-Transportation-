@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Futuristic transportation </title>
+        <meta name="description" content="">
+        <link rel="stylesheet" href="syntax.css">
+        <script src="Script.js"></script>
+    </head>
+    <body background="DIRECTORY\imgs"> 
+      <div id-content.open
+           <p style="text-align:center;">FUTURE </p>
+        <h2>Things you probably dont know </h2>        
+        <p>
+            Welcome to the Future of Transportation </p>
+        <p>
+            <em>The coming wave of futuristic transportation.When new technologies come together,  Keeps people moving to better solutions â€“ People fed up with congested cities, are innovating smart mobility with new mobile technologies and intuitive apps which integrate public transportation, better infrastructure, and car sharing.
+        </p>        
+        <h3>Purpose</h3>
+        <p>
+            Transportation technology like Hyperloop has become well known as people know that it can transport many people to a great distance in a nick of time.
+        </p>
+        <samp>
+           The Future Transport Innovation Will Be Through Subways
+        </samp>
+        <h3>INTERESTING FACTS</h3>
+        <p>
+            A water-fuelled car is an automobile that hypothetically derives its energy directly from water. Water-fuelled cars have been the subject of numerous international patents, newspaper, and popular science magazine articles, local television news coverage, and websites.
+        <!--
+            LIVE PREVIEW
+        -->
+        <h3>New things comes with problems</h3>
+    <h2>Here are they</h2>
+        <h6>
+        Autonomous Vechiles 
+        </h6>
+    <h5>By 2021 most of the cars will run on the concept of autonomus vechicles,and some of the states are using it right now the most common problem found is the driver sleep turning on the automatic  </h5>
+        
+        <h3>Can you join us?</h3>
+        <p>
+            
+        </p>
+        <h3>Quick View</h3>
+        <p>
+            
+         
+            
+        <ul>
+            <li><a href="DIRECTORY\imgs">OUR MESSAGE</a></li>
+            <li><a href="about us.html">ABOUT US</a></li>
+        </ul>
+        </p>                
+    <li><a href="IMG/Think-Before.jpg" />DONT CLICK HERE</a></li>
+    </p>   
+    </body>
+</html>
