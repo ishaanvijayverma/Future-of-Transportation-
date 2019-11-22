@@ -35,23 +35,12 @@
         <h6>
         Autonomous Vechiles 
         </h6>
-    <h5>By 2021 most of the cars will run on the concept of autonomus vechicles,and some of the states are using it right now the most common problem found is the driver sleep turning on the automatic  </h5>
+    <h5>By 2021 most of the cars will run on the concept of autonomus vechicles,and some of the states are using it right now the most common problem found is the driver sleep turning on the automatic </h5>
         
-        <h3>Can you join us?</h3>
-        <p>
-            
-        </p>
-        <h3>Quick View</h3>
-        <p>
-            
-         
-            
-        <ul>
-            <li><a href="DIRECTORY\imgs">OUR MESSAGE</a></li>
-            <li><a href="about us.html">ABOUT US</a></li>
-        </ul>
-        </p>                
-    <li><a href="IMG/Think-Before.jpg" />DONT CLICK HERE</a></li>
-    </p>   
+        <h6>Lithium batteries</h6>
+        <h5>
+         Lithium batteries are primary batteries that have metallic lithium as an anode. These types of batteries are also referred to as lithium-metal batteries.Lithium batteries can provide extremely high currents and can discharge very rapidly when short-circuited. Although this is useful in applications where high currents are required, a too-rapid discharge of a lithium battery can result in overheating of the battery, rupture, and even an explosion. Lithium-thionyl chloride batteries are particularly susceptible to this type of discharge. Consumer batteries usually incorporate overcurrent or thermal protection or vents to prevent an explosion.     
+        </h5>
+        <h6>This is are some things which we are working on many more to come </h6> 
     </body>
 </html>
