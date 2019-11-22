@@ -8,7 +8,7 @@
         <link rel="stylesheet" href="syntax.css">
         <script src="Script.js"></script>
     </head>
-    <body background="DIRECTORY\imgs"> 
+    <body background="imgs/autonomous_car_905x.jpg"> 
       <div id-content.open
            <p style="text-align:center;">FUTURE </p>
         <h2>Things you probably dont know </h2>        
@@ -41,6 +41,6 @@
         <h5>
          Lithium batteries are primary batteries that have metallic lithium as an anode. These types of batteries are also referred to as lithium-metal batteries.Lithium batteries can provide extremely high currents and can discharge very rapidly when short-circuited. Although this is useful in applications where high currents are required, a too-rapid discharge of a lithium battery can result in overheating of the battery, rupture, and even an explosion. Lithium-thionyl chloride batteries are particularly susceptible to this type of discharge. Consumer batteries usually incorporate overcurrent or thermal protection or vents to prevent an explosion.     
         </h5>
-        <h6>This is are some things which we are working on many more to come </h6> 
+        <h6>This is are some things we are working with which we are working on many more to come </h6> 
     </body>
 </html>
